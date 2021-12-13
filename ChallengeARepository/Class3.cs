@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChallengeA
+namespace ChallengeARepository
 {
-    class Program
+    class Class3
     {
     }
 }
