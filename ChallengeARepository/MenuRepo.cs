@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChallengeARepository
 {
-    class Class3
+    class MenuRepo
     {
     }
 }
