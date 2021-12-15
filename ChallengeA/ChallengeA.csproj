@@ -58,8 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="ProgramUI.cs" />
+    <Compile Include="ChallengeAProgram.cs" />
+    <Compile Include="ChallengeAProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -79,6 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChallengeARepository\ChallengeARepository.csproj">
+      <Project>{26c52b26-cf7d-4586-bd86-583418fca12b}</Project>
+      <Name>ChallengeARepository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

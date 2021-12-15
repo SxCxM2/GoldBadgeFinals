@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChallengeB
+namespace ChallengeC
 {
-    class Program
+    class ChallengeCProgramUI
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

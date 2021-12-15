@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChallengeA
+namespace ChallengeB
 {
-    class Program
+    class ChallengeBProgram
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

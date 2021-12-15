@@ -1,13 +1,4 @@
-﻿										
-										
-										
-										
-										
-										
-										
-										
-										
-										CHALLENGE 1: CAFE;
+﻿CHALLENGE 1: CAFE;
 
 
 
@@ -36,14 +27,14 @@ We don't need to be able to update items right now.
 										PLACE TO THROW CODE/IDEAS/NOTES/ETC
 								Checklist:
 							Place 'x' within bracket to signify completion.
-[] make at least six meals										
-[] push to github
-[] meals contains appropriate properties ( string name, {concatinate?} string ingredients, string description, int price)
-[] push to github
+[x] make at least six meals										
+[x] push to github
+[x] meals contains appropriate properties ( string name, {concatinate?} string ingredients, string description, int price)
+[x] push to github
 [] make one menu repository
 [] push to github
 [] repo contains appropriate CRUD methods (in this case we can ignore the update method)
 [] push to github
 [] create a UI
 [] push to github
-[] moved on to challenge B
+[] moved on to Challenge B
