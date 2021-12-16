@@ -24,14 +24,18 @@ We don't need to be able to update items right now.
 										PLACE TO THROW CODE/IDEAS/NOTES/ETC
 								Checklist:
 							Place 'x' within bracket to signify completion.
-[x] make at least six meals										
+[x] rework checklist
+[x] make poco
+[x] make repo
 [x] push to github
-[x] meals contains appropriate properties ( string name, {concatinate?} string ingredients, string description, int price)
+[x] make methods
 [x] push to github
-[] make one menu repository
+[] make programUI
+[] make unit tests
 [] push to github
-[] repo contains appropriate CRUD methods (in this case we can ignore the update method)
+[] test unit tests
+[] run application
 [] push to github
-[] create a UI
-[] push to github
-[] moved on to Challenge B
+[] clone onto different computer
+[] run application
+[] move onto ChallengeB
