@@ -21,9 +21,6 @@ Notes:
 We don't need to be able to update items right now.
 										
 										
-										
-										
-										
 										PLACE TO THROW CODE/IDEAS/NOTES/ETC
 								Checklist:
 							Place 'x' within bracket to signify completion.
