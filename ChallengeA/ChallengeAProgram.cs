@@ -10,7 +10,7 @@ namespace ChallengeA
     {
         static void Main(string[] args)
         {
-            ProgramUI ChallengeOneProgram = new ProgramUI();
+            ChallengeAProgramUI ChallengeOneProgram = new ChallengeAProgramUI();
             ChallengeOneProgram.Run();
         }
     }

@@ -134,11 +134,11 @@ namespace ChallengeA
         }
         private void InitialInfo()
         {
-            var menuOne = new MenuContent(1, "Tacos", "3 tacos, all hard shells", 10.5f, "1lb Ground Beef, pepper, salt, tortillas");
-            var menuTwo = new MenuContent(2, "Spaghetti", "Noodles and Awesome Sauce straight from the garden", 12.5f, "1lb ground beef, noodles, awesome sauce");
-            var menuThree = new MenuContent(3, "Corn Dogs", "3 corn dogs and fries", 5.5f, "corn dogs, 1 lb of frozen fries, ketchup");
-            var menuFour = new MenuContent(4, "Fried Chicken", "2 fried chicken drumsticks with mashed potatoes", 7.5f, "oil, chicken, pepper, potatoes, butter");
-            var menuFive = new MenuContent(5, "Filet Minon", "12 oz filet with a baked potatoe and green beans", 25f, " Filet Steak, pepper, salt, baked potatoe, fresh green beans");
+            var menuOne = new MenuContent();
+            var menuTwo = new MenuContent();
+            var menuThree = new MenuContent();
+            var menuFour = new MenuContent();
+            var menuFive = new MenuContent();
 
             _pocosAndRepos.AddItemToMenu(menuOne);
             _pocosAndRepos.AddItemToMenu(menuTwo);
