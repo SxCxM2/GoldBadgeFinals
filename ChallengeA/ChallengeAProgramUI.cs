@@ -23,8 +23,7 @@ namespace ChallengeA
             bool isRunning = true;
             while (isRunning)
             {
-                Console.BackgroundColor = ConsoleColor.DarkCyan;
-                Console.ForegroundColor = ConsoleColor.White;
+                
                 Console.Clear();
                 Console.WriteLine("\n\n [Welcome to the Cafe] \n\n" +
                     "Please select an option:\n" +
