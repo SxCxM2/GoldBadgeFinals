@@ -12,3 +12,5 @@ C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\obj\Debug\ChallengeA
 C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\obj\Debug\ChallengeATests.csproj.CopyComplete
 C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\obj\Debug\ChallengeATests.dll
 C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\obj\Debug\ChallengeATests.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\bin\Debug\ChallengeARepository.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeATests\bin\Debug\ChallengeARepository.pdb

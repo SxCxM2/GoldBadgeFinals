@@ -36,7 +36,7 @@ namespace ChallengeARepository
         /// Make your CRUD, don't worry about an UPDATE method.
         /// </summary>
 
-        private readonly List<MenuContent> _menuItems = new List<MenuContent>();
+        public readonly List<MenuContent> _menuItems = new List<MenuContent>();
 
         //C
         public bool AddItemToMenu(MenuContent items)
