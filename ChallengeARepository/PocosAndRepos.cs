@@ -18,10 +18,15 @@ namespace ChallengeARepository
         public MenuContent() { }
         public MenuContent(int mealNumber, string mealName, string description, double mealPrice, string ingredients)
         {
+            //meal number
             MealNumber = mealNumber;
+            //name of what you're buying
             MealName = mealName;
+            //description of what you're buying
             Description = description;
+            //price of what you're buying
             MealPrice = mealPrice;
+            //what you're buying actually contains
             Ingredients = ingredients;
         }
     }

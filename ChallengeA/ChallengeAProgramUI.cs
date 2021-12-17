@@ -24,7 +24,7 @@ namespace ChallengeA
             while (isRunning)
             {
                 Console.BackgroundColor = ConsoleColor.DarkCyan;
-                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.Clear();
                 Console.WriteLine("\n\n [Welcome to the Cafe] \n\n" +
                     "Please select an option:\n" +
@@ -134,11 +134,11 @@ namespace ChallengeA
         }
         private void InitialInfo()
         {
-            var menuOne = new MenuContent();
-            var menuTwo = new MenuContent();
-            var menuThree = new MenuContent();
-            var menuFour = new MenuContent();
-            var menuFive = new MenuContent();
+            var menuOne = new MenuContent(1, "Burger", "A juicy burger on sweet Hawaiian buns.", 3.50f, "2 beef patties, ketchup, mustard, mayonnaise, lettuce, red onions, and cheese.");
+            var menuTwo = new MenuContent(2, "French Fries", "A hearty scoop of potato skins that are fried in a french way that is poatatoato skin  skins of the french variety.", 2.00f, "");
+            var menuThree = new MenuContent(3, "6 Chicken Tenders", "6 crispy chicken tender strips.", 6.00f, "ingredients");
+            var menuFour = new MenuContent(4, "12 Chicken Tenders", "12 crispy chicken tender strips.", 12.00f, "ingredients");
+            var menuFive = new MenuContent(5, "Fish Sandwich", "This fried fish sandwich doesn't stray far from the classic fast-food staple: breaded fish, a soft bun, a slice of cheese and tangy tartar sauce.", 12.00f, "Breaded fish patty, soft sandwich buns, cheese, tartar sauce.");
 
             _pocosAndRepos.AddItemToMenu(menuOne);
             _pocosAndRepos.AddItemToMenu(menuTwo);

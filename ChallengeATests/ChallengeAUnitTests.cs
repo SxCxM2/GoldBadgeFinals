@@ -4,8 +4,9 @@ using System;
 namespace ChallengeATests
 {
     [TestClass]
-    public class UnitTest1
+    public class ChallengeAUnitTests
     {
+        PocosAndRepos _pocosAndRepos = new PocosAndRepos();
         [TestMethod]
         public void TestMethod1()
         {
