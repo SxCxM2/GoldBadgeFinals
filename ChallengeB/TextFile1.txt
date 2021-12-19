@@ -87,21 +87,18 @@ Be sure to Unit Test your Repository methods.
 									PLACE TO THROW CODE/IDEAS/NOTES/ETC
 								Checklist:
 							Place 'x' within bracket to signify completion.
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
-[] 
+[] make checklist
 [] push to github
-[] moved on to Challenge C
+[] make pocos and repos
+[] push to github
+[] CRUD
+[] push to github
+[] make programUI
+[] make unit tests
+[] push to github
+[] test unit tests
+[] run application
+[] push to github
+[] clone onto different computer
+[] run application
+[] push to github

@@ -33,9 +33,9 @@ We don't need to be able to update items right now.
 [x] make programUI
 [x] make unit tests
 [x] push to github
-[] test unit tests
-[] run application
-[] push to github
-[] clone onto different computer
-[] run application
-[] move onto ChallengeB
+[x] test unit tests
+[x] run application
+[x] push to github
+[x] clone onto different computer
+[x] run application
+[x] move onto ChallengeB
