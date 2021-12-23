@@ -24,15 +24,15 @@ they want to calculate the cost of each bag of popcorn and each gallon of ice cr
 
 One key result in the program will be for party planners to see a list of all parties with total cost and total tickets taken for an event.
 
-[] make checklist
-[] push to github
-[] make pocos and repos
-[] push to github
-[] CRUD
-[] push to github
-[] make programUI
+[x] make checklist
+[x] push to github
+[x] make pocos and repos
+[x] push to github
+[x] CRUD
+[x] push to github
+[x] make programUI
+[x] run application
 [] make unit tests
 [] push to github
-[] run application
 [] test unit tests
 [] push to github

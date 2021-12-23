@@ -9,7 +9,7 @@ namespace ChallengeC
 {
     class ChallengeCProgramUI
     {
-        PocosAndRepos _repo = new PocosAndRepos();
+         PocosAndRepos _repo = new PocosAndRepos();
 
         public void Run()
         {
@@ -31,27 +31,27 @@ namespace ChallengeC
                 if (userInput == "1")
                 {
                     //popcorn
-                    _repo.PriceOfPopcorn++;
+                    _repo.PopcornBags++;
                 }
                 else if (userInput == "2")
                 {
                     //icecream
-                    _repo.PriceOfIceCream++;
+                    _repo.IceCream++;
                 }
                 else if (userInput == "3")
                 {
                     //hotdog
-                    _repo.PriceOfHotDog++;
+                    _repo.HotDogs++;
                 }
                 else if (userInput == "4")
                 {
                     //veggie
-                    _repo.PriceOfVeggieBurger++;
+                    _repo.VeggieBurgers++;
                 }
                 else if (userInput == "5")
                 {
                     //hamburger
-                    _repo.PriceOfHamburger++;
+                    _repo.Hamburgers++;
                 }
                 else if (userInput == "6")
                 {

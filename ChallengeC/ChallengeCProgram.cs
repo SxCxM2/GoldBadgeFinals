@@ -10,6 +10,8 @@ namespace ChallengeC
     {
         static void Main(string[] args)
         {
+            ChallengeCProgramUI challengeCProgramUI = new ChallengeCProgramUI();
+            challengeCProgramUI.Run();
         }
     }
 }

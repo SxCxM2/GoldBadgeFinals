@@ -17,7 +17,7 @@ namespace ChallengeCRepository
 
         public decimal PriceOfPopcorn = 1.5m;
         public decimal PriceOfIceCream = 2.5m;
-        public int PriceOfHotDog = 3;
+        public decimal PriceOfHotDog = 3.5m;
         public decimal PriceOfVeggieBurger = 4.5m;
         public decimal PriceOfHamburger = 4.75m;
 
