@@ -32,7 +32,6 @@ One key result in the program will be for party planners to see a list of all pa
 [x] push to github
 [x] make programUI
 [x] run application
-[] make unit tests
-[] push to github
-[] test unit tests
-[] push to github
+[x] make unit tests
+[x] test unit tests
+[x] push to github

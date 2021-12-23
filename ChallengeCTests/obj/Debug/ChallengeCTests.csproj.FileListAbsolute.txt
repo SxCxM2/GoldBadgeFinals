@@ -1,0 +1,16 @@
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\ChallengeCTests.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\ChallengeCTests.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\ChallengeCRepository.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\ChallengeCRepository.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\obj\Debug\ChallengeCTests.csproj.AssemblyReference.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\obj\Debug\ChallengeCTests.csproj.CoreCompileInputs.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\obj\Debug\ChallengeCTests.csproj.CopyComplete
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\obj\Debug\ChallengeCTests.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCTests\obj\Debug\ChallengeCTests.pdb
