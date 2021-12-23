@@ -53,5 +53,11 @@
   <ItemGroup>
     <Content Include="TextFile1.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChallengeCRepository\ChallengeCRepository.csproj">
+      <Project>{60CA7410-B73D-43AB-93D8-4B16ED9975DB}</Project>
+      <Name>ChallengeCRepository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

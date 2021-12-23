@@ -1,0 +1,6 @@
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\bin\Debug\ChallengeCRepository.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\bin\Debug\ChallengeCRepository.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\obj\Debug\ChallengeCRepository.csproj.AssemblyReference.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\obj\Debug\ChallengeCRepository.csproj.CoreCompileInputs.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\obj\Debug\ChallengeCRepository.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeCRepository\obj\Debug\ChallengeCRepository.pdb

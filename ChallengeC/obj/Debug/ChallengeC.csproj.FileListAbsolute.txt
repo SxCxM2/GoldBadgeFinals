@@ -1,0 +1,10 @@
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\bin\Debug\ChallengeC.exe.config
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\bin\Debug\ChallengeC.exe
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\bin\Debug\ChallengeC.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\bin\Debug\ChallengeCRepository.dll
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\bin\Debug\ChallengeCRepository.pdb
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\obj\Debug\ChallengeC.csproj.AssemblyReference.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\obj\Debug\ChallengeC.csproj.CoreCompileInputs.cache
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\obj\Debug\ChallengeC.csproj.CopyComplete
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\obj\Debug\ChallengeC.exe
+C:\Users\nounv\source\repos\GoldBadgeFinals\ChallengeC\obj\Debug\ChallengeC.pdb
