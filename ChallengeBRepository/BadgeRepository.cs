@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ChallengeBRepository
 {
-    public class PocosAndRepos
+    public class BadgeContent
     {
         public int BadgeID { get; set; }
         public List<string> listOfDoors { get; set; }
-        public PocosAndRepos() { }
-        public PocosAndRepos(int badgeID, List<string> doors)
+        public BadgeContent() { }
+        public BadgeContent(int badgeID, List<string> doors)
         {
             BadgeID = badgeID;
             listOfDoors = doors;
@@ -35,7 +35,7 @@ namespace ChallengeBRepository
             return default;
         }
         //Add badge
-        public bool AddContentToDirectory(int badgeid, List<string> door)
+        public bool AddBadgeToDirectory(int badgeid, List<string> door)
         {
             int initialCount = _contentDirectory.Count;
             _contentDirectory.Add(badgeid, door);

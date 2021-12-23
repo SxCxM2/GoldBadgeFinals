@@ -92,13 +92,10 @@ Be sure to Unit Test your Repository methods.
 [x] make pocos and repos
 [x] push to github
 [x] CRUD
-[] push to github
-[] make programUI
-[] make unit tests
-[] push to github
+[x] push to github
+[x] make programUI
+[x] make unit tests
+[x] push to github
+[] run application
 [] test unit tests
-[] run application
-[] push to github
-[] clone onto different computer
-[] run application
 [] push to github

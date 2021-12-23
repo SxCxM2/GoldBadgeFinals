@@ -33,9 +33,6 @@ One key result in the program will be for party planners to see a list of all pa
 [] make programUI
 [] make unit tests
 [] push to github
+[] run application
 [] test unit tests
-[] run application
-[] push to github
-[] clone onto different computer
-[] run application
 [] push to github
