@@ -96,6 +96,6 @@ Be sure to Unit Test your Repository methods.
 [x] make programUI
 [x] make unit tests
 [x] push to github
-[] run application
-[] test unit tests
-[] push to github
+[x] run application
+[x] test unit tests
+[x] push to github
